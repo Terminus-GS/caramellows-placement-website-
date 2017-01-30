@@ -1,13 +1,21 @@
 <?php
 include('header.php');
 ?>
-
+    
     <body>
         <!-- <div class="overlay"></div>
     <section id="page-content">
         <div class="row mainslider" style="
     width: 80%;
 "> -->
+       <div id="myModal" class="modal">
+ <!-- Modal content -->
+  <div class="modal-content">
+    <span class="close">&times;</span>
+      <p>We currently only do business within Norwich, we deliver as long as products cost over £10. </br> Message from developer </br> ---------------------------- </br> This website is still in 'beta', as my skills grow so will the website.</p>
+  </div>
+
+</div>
         <div class="row"  style="padding-bottom: 20px; padding-top: 20px;">
             <div class="small-8 columns orbitClass" style="margin: 0 auto;
     display: block; float: none;">
@@ -70,7 +78,7 @@ include('header.php');
             </div>
     </section>
 
-
+        
         <script src="//code.jquery.com/jquery-latest.min.js" type="text/javascript"></script>
         <script type="text/javascript" src="script.js"></script>
         <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>

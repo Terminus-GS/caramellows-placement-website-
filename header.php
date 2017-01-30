@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html class="no-js" lang="en" dir="ltr", ng-app="mod">
+<html class="no-js" lang="en" dir="ltr">
 
 <head>
     <meta charset="UTF-8" />
@@ -9,7 +9,8 @@
     <link rel="stylesheet" href="css/CCcss.css" />
     <link rel="stylesheet" href="foundation-icons/foundation-icons.css" />
     <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Fira+Sans">
-    
+    <script src="js/vendor/foundation.min.js"></script>
+    <script src="js/vendor/what-input.js"></script>
     <script type="text/javascript" src="script.js"></script>
     <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.0-rc.2/angular.min.js"></script>
     <script type="text/javascript" src="jquery-3.1.0.min.js"></script>
